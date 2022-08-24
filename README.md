@@ -1,0 +1,14 @@
+# m0xx-user 4.3 JSS15J I9300XXUGOE1 release-keys
+- manufacturer: samsung
+- platform: exynos4
+- codename: m0
+- flavor: user
+- release: 4.3
+- id: JSS15J
+- incremental: I9300XXUGOE1
+- tags: release-keys
+- fingerprint: samsung/m0xx/m0:4.3/JSS15J/I9300XXUGOE1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m0xx-user-4.3-JSS15J-I9300XXUGOE1-release-keys
+- repo: samsung_m0_dump
